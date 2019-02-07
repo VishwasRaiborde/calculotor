@@ -9,5 +9,12 @@ public class CalculatorServices {
 		//this is addition
 		return a + b;
 	}
+	
+	
+	public int divide(int a, int b) {
+
+		//this is addition
+		return a / b;
+	}
 
 }
