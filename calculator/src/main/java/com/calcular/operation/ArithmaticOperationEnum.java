@@ -4,7 +4,7 @@ package com.calcular.operation;
 class ArithmaticOperationEnum {
 
 	enum Operations {
-		ADD, DELETE, MULTIPLY, DIVIDE  
+		ADD, DELETE, MULTIPLY, DIVIDE , PERCENTAGE
 	}
 
 	Operations operations;
